@@ -1,0 +1,100 @@
+
+--------
+= [https://svnauto.tamsa.ot/source/Common/View/CycleTime/v0.0/sandbox/1.xx-devel Common/View/CycleTime/v0.0] branch: sandbox/1.xx-devel (1.0.1.1096) =
+
+ * Trac: all:source:/
+ * Author: tamsa\60034900
+ * Date: 2012-05-30T22:53:42.000Z
+ * Message:
+  * #RELEASE Changing properties to v0.0
+
+== Change Log == 
+
+==== all:r11096 Author: tamsa\60034900 Date: 2012-05-30 17:53:42.991704 ====
+ * #RELEASE Changing properties to v0.0
+==== all:r11094 Author: tamsa\60034900 Date: 2012-05-30 17:52:16.862490 ====
+ * Moving version 0.0 folders (trunk, branches, etc) to v0.0
+
+--------
+= [https://svnauto.tamsa.ot/source/Common/View/CycleTime/sandbox/1.xx-devel Common/View/CycleTime] branch: sandbox/1.xx-devel (1.0.1.1091) =
+
+ * Trac: all:source:/
+ * Author: tamsa\60034900
+ * Date: 2012-05-30T22:47:50.000Z
+ * Message:
+  * #RELEASE Testing build
+
+== Change Log == 
+
+==== all:r11091 Author: tamsa\60034900 Date: 2012-05-30 17:47:50.721543 ====
+ * #RELEASE Testing build
+==== all:r8803 Author: wperrotin Date: 2011-12-06 20:08:43.205501 ====
+ * #release commit for tagging
+
+--------
+= [https://svnauto.tamsa.ot/source/Common/View/CycleTime/sandbox/1.xx-devel Common/View/CycleTime] branch: sandbox/1.xx-devel (1.0.0.8803) =
+
+ * Trac: all:source:/
+ * Author: wperrotin
+ * Date: 2011-12-07T02:08:43.000Z
+ * Message:
+  * #release commit for tagging
+
+== Change Log == 
+
+==== all:r8803 Author: wperrotin Date: 2011-12-06 20:08:43.205501 ====
+ * #release commit for tagging
+==== all:r319 Author: wperrotin Date: 2010-09-07 16:32:23.875159 ====
+ * #release first commit
+
+--------
+= [https://svnauto.tamsa.ot/source/Common/View/CycleTime/sandbox/1.xx-devel Common/View/CycleTime] branch: sandbox/1.xx-devel (1.0.0.319) =
+
+ * Trac: all:source:/
+ * Author: wperrotin
+ * Date: 2010-09-07T21:32:23.000Z
+ * Message:
+  * #release first commit
+
+== Change Log == 
+
+==== all:r319 Author: wperrotin Date: 2010-09-07 16:32:23.875159 ====
+ * #release first commit
+==== all:r303 Author: wperrotin Date: 2010-09-07 13:22:24.969051 ====
+ * #release first commit
+
+--------
+= [https://svnauto.tamsa.ot/source/Common/View/CycleTime/sandbox/1.xx-devel Common/View/CycleTime] branch: sandbox/1.xx-devel (1.0.0.303) =
+
+ * Trac: all:source:/
+ * Author: wperrotin
+ * Date: 2010-09-07T18:22:24.000Z
+ * Message:
+  * #release first commit
+
+== Change Log == 
+
+==== all:r303 Author: wperrotin Date: 2010-09-07 13:22:24.969051 ====
+ * #release first commit
+==== all:r298 Author: wperrotin Date: 2010-09-07 13:02:50.990019 ====
+ * #release first commit
+
+--------
+= [https://svnauto.tamsa.ot/source/Common/View/CycleTime/sandbox/1.xx-devel Common/View/CycleTime] branch: sandbox/1.xx-devel (1.0.0.298) =
+
+ * Trac: all:source:/
+ * Author: wperrotin
+ * Date: 2010-09-07T18:02:50.000Z
+ * Message:
+  * #release first commit
+
+== Change Log == 
+
+==== all:r298 Author: wperrotin Date: 2010-09-07 13:02:50.990019 ====
+ * #release first commit
+==== all:r272 Author: wperrotin Date: 2010-09-06 16:06:49.247435 ====
+ * #release first commit
+==== all:r217 Author: wperrotin Date: 2010-09-03 04:46:05.463528 ====
+ * #release first commit
+==== all:r41 Author: aalarcon Date: 2010-08-25 18:09:04.321945 ====
+ * Creation of the base branch of the project [wiki:Components/View/CycleTime CycleTimeView] requested by the ticket [ticket:17]
