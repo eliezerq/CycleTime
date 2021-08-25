@@ -1,0 +1,8 @@
+﻿<UserControl x:Class="Tenaris.View.CycleTime.TeeChart.CurveDetailGraph"
+   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+   xmlns:TeeChart="clr-namespace:Steema.TeeChart.WPF;assembly=TeeChart.WPF">
+   <DockPanel Name="MainPanel">      
+      <TeeChart:TChart Name="Graph"></TeeChart:TChart>
+   </DockPanel>
+</UserControl>

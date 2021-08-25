@@ -1,0 +1,10 @@
+﻿<UserControl Name="UsrCycleTimeGraph" x:Class="Tenaris.View.CycleTime.TeeChart.CycleTimeGraph"
+   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+   xmlns:TeeChart="clr-namespace:Steema.TeeChart.WPF;assembly=TeeChart.WPF" Loaded="UsrCycleTimeGraph_Loaded">
+   <DockPanel Name="MainPanel">         
+      <!--<TeeChart:TChart Name="Graph" ToolTip="{Binding IsPaintStandardTime, ElementName=UsrCycleTimeGraph}"></TeeChart:TChart>-->
+      <TeeChart:TChart Name="Graph" ClickSeries="Graph_ClickSeries"></TeeChart:TChart>       
+
+    </DockPanel>
+</UserControl>
